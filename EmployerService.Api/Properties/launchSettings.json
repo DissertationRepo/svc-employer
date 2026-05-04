@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "http": {
+    "EmployerService.Api": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",
