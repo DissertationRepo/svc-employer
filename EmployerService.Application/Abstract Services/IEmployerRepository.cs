@@ -15,5 +15,6 @@ namespace EmployerService.Application.Abstract_Services
             string companySize,
             string contactEmail);
         Task<bool> DeleteEmployerAsync(Guid employerId);
+        Task<IEnumerable<Employer?>> GetEmployersByCompanyNameAsync(string companyName);
     }
 }

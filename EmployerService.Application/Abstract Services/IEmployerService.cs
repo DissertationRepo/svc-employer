@@ -10,5 +10,6 @@ namespace EmployerService.Application.Abstract_Services
         Task<Employer?> GetEmployerByUserIdAsync(Guid userId);
         Task<bool> UpdateEmployerAsync(UpdateEmployerModel employerModel);
         Task<bool> DeleteEmployerAsync(string employerId);
+        Task<IEnumerable<Employer?>> GetEmployersByCompanyNameAsync(string companyName);
     }
 }

@@ -52,5 +52,10 @@ namespace EmployerService.Application.Services
         {
             return await _employerRepository.DeleteEmployerAsync(Guid.Parse(employerId));
         }
+
+        public Task<IEnumerable<Employer?>> GetEmployersByCompanyNameAsync(string companyName)
+        {
+            return _employerRepository.GetEmployersByCompanyNameAsync(companyName);
+        }
     }
 }

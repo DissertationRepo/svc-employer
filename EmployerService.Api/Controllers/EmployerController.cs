@@ -48,6 +48,28 @@ namespace EmployerService.Api.Controllers
             return Ok(response);
         }
 
+        [HttpGet("search")]
+        [Authorize]
+        public async Task<IActionResult> SearchByCompanyName([FromQuery] string companyName)
+        {
+            if (string.IsNullOrWhiteSpace(companyName))
+            {
+                return BadRequest("Please provide a company name to search for.");
+            }
+
+            var employers = await _employerService.GetEmployersByCompanyNameAsync(companyName);
+            var results = employers.Where(e => e is not null)
+                                   .Select(e => _mapper.Map<EmployerResponse>(e!))
+                                   .ToList();
+
+            if (!results.Any())
+            {
+                return NotFound();
+            }
+
+            return Ok(results);
+        }
+
         [HttpGet("by-user/{userId}")]
         //[Authorize]
         public async Task<IActionResult> GetEmployerByUserId(string userId)

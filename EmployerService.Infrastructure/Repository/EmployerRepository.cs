@@ -91,6 +91,20 @@ namespace EmployerService.Infrastructure.Repository
             return true;
         }
 
+        public async Task<IEnumerable<Employer?>> GetEmployersByCompanyNameAsync(string companyName)
+        {
+            if (string.IsNullOrWhiteSpace(companyName))
+            {
+                return Enumerable.Empty<Employer>();
+            }
+
+            var entities = await _db.Employers
+                .Where(e => e.CompanyName.Contains(companyName))
+                .ToListAsync();
+
+            return entities.Select(MapToDomain).ToList();
+        }
+
         private static Employer MapToDomain(EmployerEntity entity)
         {
             return Employer.Load(

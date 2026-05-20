@@ -7,16 +7,40 @@
       "RelativeMoniker": "D:0:0:{6B7626B7-AD26-4904-AF9E-AB1716CE4202}|EmployerService.Api\\EmployerService.Api.csproj|solutionrelative:employerservice.api\\controllers\\employercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Infrastructure\\Migrations\\20260504125355_Initial-Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployerService.Infrastructure\\Migrations\\20260504125355_Initial-Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B7626B7-AD26-4904-AF9E-AB1716CE4202}|EmployerService.Api\\EmployerService.Api.csproj|c:\\users\\lfodor\\onedrive - endava\\documents\\dissertationrepo\\svc-employer\\employerservice.api\\models\\newemployer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7626B7-AD26-4904-AF9E-AB1716CE4202}|EmployerService.Api\\EmployerService.Api.csproj|solutionrelative:employerservice.api\\models\\newemployer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B7626B7-AD26-4904-AF9E-AB1716CE4202}|EmployerService.Api\\EmployerService.Api.csproj|c:\\users\\lfodor\\onedrive - endava\\documents\\dissertationrepo\\svc-employer\\employerservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6B7626B7-AD26-4904-AF9E-AB1716CE4202}|EmployerService.Api\\EmployerService.Api.csproj|solutionrelative:employerservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6B818A72-1A18-47C1-881F-5788223B4294}|EmployerService.Domain\\EmployerService.Domain.csproj|c:\\users\\lfodor\\onedrive - endava\\documents\\dissertationrepo\\svc-employer\\employerservice.domain\\entities\\aggregates\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B818A72-1A18-47C1-881F-5788223B4294}|EmployerService.Domain\\EmployerService.Domain.csproj|solutionrelative:employerservice.domain\\entities\\aggregates\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7626B7-AD26-4904-AF9E-AB1716CE4202}|EmployerService.Api\\EmployerService.Api.csproj|c:\\users\\lfodor\\onedrive - endava\\documents\\dissertationrepo\\svc-employer\\employerservice.api\\modelvalidators\\newemployervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7626B7-AD26-4904-AF9E-AB1716CE4202}|EmployerService.Api\\EmployerService.Api.csproj|solutionrelative:employerservice.api\\modelvalidators\\newemployervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD21C09-100A-4CB6-A939-717E1C449101}|EmployerService.Infrastructure\\EmployerService.Infrastructure.csproj|c:\\users\\lfodor\\onedrive - endava\\documents\\dissertationrepo\\svc-employer\\employerservice.infrastructure\\entities\\employerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD21C09-100A-4CB6-A939-717E1C449101}|EmployerService.Infrastructure\\EmployerService.Infrastructure.csproj|solutionrelative:employerservice.infrastructure\\entities\\employerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDD21C09-100A-4CB6-A939-717E1C449101}|EmployerService.Infrastructure\\EmployerService.Infrastructure.csproj|c:\\users\\lfodor\\onedrive - endava\\documents\\dissertationrepo\\svc-employer\\employerservice.infrastructure\\persistence\\configurations\\employerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDD21C09-100A-4CB6-A939-717E1C449101}|EmployerService.Infrastructure\\EmployerService.Infrastructure.csproj|solutionrelative:employerservice.infrastructure\\persistence\\configurations\\employerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71483A97-9C90-40B9-A602-5FEBA47A5043}|EmployerService.Application\\EmployerService.Application.csproj|c:\\users\\lfodor\\onedrive - endava\\documents\\dissertationrepo\\svc-employer\\employerservice.application\\models\\updateemployermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71483A97-9C90-40B9-A602-5FEBA47A5043}|EmployerService.Application\\EmployerService.Application.csproj|solutionrelative:employerservice.application\\models\\updateemployermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71483A97-9C90-40B9-A602-5FEBA47A5043}|EmployerService.Application\\EmployerService.Application.csproj|c:\\users\\lfodor\\onedrive - endava\\documents\\dissertationrepo\\svc-employer\\employerservice.application\\models\\employermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71483A97-9C90-40B9-A602-5FEBA47A5043}|EmployerService.Application\\EmployerService.Application.csproj|solutionrelative:employerservice.application\\models\\employermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B818A72-1A18-47C1-881F-5788223B4294}|EmployerService.Domain\\EmployerService.Domain.csproj|c:\\users\\lfodor\\onedrive - endava\\documents\\dissertationrepo\\svc-employer\\employerservice.domain\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B818A72-1A18-47C1-881F-5788223B4294}|EmployerService.Domain\\EmployerService.Domain.csproj|solutionrelative:employerservice.domain\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7626B7-AD26-4904-AF9E-AB1716CE4202}|EmployerService.Api\\EmployerService.Api.csproj|c:\\users\\lfodor\\onedrive - endava\\documents\\dissertationrepo\\svc-employer\\employerservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B7626B7-AD26-4904-AF9E-AB1716CE4202}|EmployerService.Api\\EmployerService.Api.csproj|solutionrelative:employerservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDD21C09-100A-4CB6-A939-717E1C449101}|EmployerService.Infrastructure\\EmployerService.Infrastructure.csproj|c:\\users\\lfodor\\onedrive - endava\\documents\\dissertationrepo\\svc-employer\\employerservice.infrastructure\\persistence\\employerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +49,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{6B7626B7-AD26-4904-AF9E-AB1716CE4202}|EmployerService.Api\\EmployerService.Api.csproj|c:\\users\\lfodor\\onedrive - endava\\documents\\dissertationrepo\\svc-employer\\employerservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6B7626B7-AD26-4904-AF9E-AB1716CE4202}|EmployerService.Api\\EmployerService.Api.csproj|solutionrelative:employerservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD21C09-100A-4CB6-A939-717E1C449101}|EmployerService.Infrastructure\\EmployerService.Infrastructure.csproj|c:\\users\\lfodor\\onedrive - endava\\documents\\dissertationrepo\\svc-employer\\employerservice.infrastructure\\migrations\\20260504125355_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD21C09-100A-4CB6-A939-717E1C449101}|EmployerService.Infrastructure\\EmployerService.Infrastructure.csproj|solutionrelative:employerservice.infrastructure\\migrations\\20260504125355_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71483A97-9C90-40B9-A602-5FEBA47A5043}|EmployerService.Application\\EmployerService.Application.csproj|c:\\users\\lfodor\\onedrive - endava\\documents\\dissertationrepo\\svc-employer\\employerservice.application\\abstract services\\iemployerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71483A97-9C90-40B9-A602-5FEBA47A5043}|EmployerService.Application\\EmployerService.Application.csproj|solutionrelative:employerservice.application\\abstract services\\iemployerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71483A97-9C90-40B9-A602-5FEBA47A5043}|EmployerService.Application\\EmployerService.Application.csproj|c:\\users\\lfodor\\onedrive - endava\\documents\\dissertationrepo\\svc-employer\\employerservice.application\\abstract services\\iemployerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71483A97-9C90-40B9-A602-5FEBA47A5043}|EmployerService.Application\\EmployerService.Application.csproj|solutionrelative:employerservice.application\\abstract services\\iemployerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71483A97-9C90-40B9-A602-5FEBA47A5043}|EmployerService.Application\\EmployerService.Application.csproj|c:\\users\\lfodor\\onedrive - endava\\documents\\dissertationrepo\\svc-employer\\employerservice.application\\services\\employerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71483A97-9C90-40B9-A602-5FEBA47A5043}|EmployerService.Application\\EmployerService.Application.csproj|solutionrelative:employerservice.application\\services\\employerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD21C09-100A-4CB6-A939-717E1C449101}|EmployerService.Infrastructure\\EmployerService.Infrastructure.csproj|c:\\users\\lfodor\\onedrive - endava\\documents\\dissertationrepo\\svc-employer\\employerservice.infrastructure\\repository\\employerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD21C09-100A-4CB6-A939-717E1C449101}|EmployerService.Infrastructure\\EmployerService.Infrastructure.csproj|solutionrelative:employerservice.infrastructure\\repository\\employerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +86,145 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Infrastructure\\Repository\\EmployerRepository.cs",
+              "RelativeDocumentMoniker": "EmployerService.Infrastructure\\Repository\\EmployerRepository.cs",
+              "ToolTip": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Infrastructure\\Repository\\EmployerRepository.cs",
+              "RelativeToolTip": "EmployerService.Infrastructure\\Repository\\EmployerRepository.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T08:03:32.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployerService.cs",
+              "DocumentMoniker": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Application\\Services\\EmployerService.cs",
+              "RelativeDocumentMoniker": "EmployerService.Application\\Services\\EmployerService.cs",
+              "ToolTip": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Application\\Services\\EmployerService.cs",
+              "RelativeToolTip": "EmployerService.Application\\Services\\EmployerService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T08:03:26.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmployerService.cs",
+              "DocumentMoniker": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Application\\Abstract Services\\IEmployerService.cs",
+              "RelativeDocumentMoniker": "EmployerService.Application\\Abstract Services\\IEmployerService.cs",
+              "ToolTip": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Application\\Abstract Services\\IEmployerService.cs",
+              "RelativeToolTip": "EmployerService.Application\\Abstract Services\\IEmployerService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAEBUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T08:03:21.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmployerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Application\\Abstract Services\\IEmployerRepository.cs",
+              "RelativeDocumentMoniker": "EmployerService.Application\\Abstract Services\\IEmployerRepository.cs",
+              "ToolTip": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Application\\Abstract Services\\IEmployerRepository.cs",
+              "RelativeToolTip": "EmployerService.Application\\Abstract Services\\IEmployerRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAEBUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T08:03:19.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Employer.cs",
+              "DocumentMoniker": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Domain\\Entities\\Aggregates\\Employer.cs",
+              "RelativeDocumentMoniker": "EmployerService.Domain\\Entities\\Aggregates\\Employer.cs",
+              "ToolTip": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Domain\\Entities\\Aggregates\\Employer.cs",
+              "RelativeToolTip": "EmployerService.Domain\\Entities\\Aggregates\\Employer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:54:18.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Domain\\ValueObjects\\Email.cs",
+              "RelativeDocumentMoniker": "EmployerService.Domain\\ValueObjects\\Email.cs",
+              "ToolTip": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Domain\\ValueObjects\\Email.cs",
+              "RelativeToolTip": "EmployerService.Domain\\ValueObjects\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:54:11.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateEmployerModel.cs",
+              "DocumentMoniker": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Application\\Models\\UpdateEmployerModel.cs",
+              "RelativeDocumentMoniker": "EmployerService.Application\\Models\\UpdateEmployerModel.cs",
+              "ToolTip": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Application\\Models\\UpdateEmployerModel.cs",
+              "RelativeToolTip": "EmployerService.Application\\Models\\UpdateEmployerModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:53:01.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployerModel.cs",
+              "DocumentMoniker": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Application\\Models\\EmployerModel.cs",
+              "RelativeDocumentMoniker": "EmployerService.Application\\Models\\EmployerModel.cs",
+              "ToolTip": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Application\\Models\\EmployerModel.cs",
+              "RelativeToolTip": "EmployerService.Application\\Models\\EmployerModel.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:52:30.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployerEntity.cs",
+              "DocumentMoniker": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Infrastructure\\Entities\\EmployerEntity.cs",
+              "RelativeDocumentMoniker": "EmployerService.Infrastructure\\Entities\\EmployerEntity.cs",
+              "ToolTip": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Infrastructure\\Entities\\EmployerEntity.cs",
+              "RelativeToolTip": "EmployerService.Infrastructure\\Entities\\EmployerEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:50:26.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewEmployer.cs",
+              "DocumentMoniker": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Api\\Models\\NewEmployer.cs",
+              "RelativeDocumentMoniker": "EmployerService.Api\\Models\\NewEmployer.cs",
+              "ToolTip": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Api\\Models\\NewEmployer.cs",
+              "RelativeToolTip": "EmployerService.Api\\Models\\NewEmployer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:42:11.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewEmployerValidator.cs",
+              "DocumentMoniker": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Api\\ModelValidators\\NewEmployerValidator.cs",
+              "RelativeDocumentMoniker": "EmployerService.Api\\ModelValidators\\NewEmployerValidator.cs",
+              "ToolTip": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Api\\ModelValidators\\NewEmployerValidator.cs",
+              "RelativeToolTip": "EmployerService.Api\\ModelValidators\\NewEmployerValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:42:21.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "EmployerService.Api\\Properties\\launchSettings.json",
@@ -50,12 +232,11 @@
               "RelativeToolTip": "EmployerService.Api\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-04T12:54:40.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T12:54:40.124Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "20260504125355_Initial-Migration.cs",
               "DocumentMoniker": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Infrastructure\\Migrations\\20260504125355_Initial-Migration.cs",
               "RelativeDocumentMoniker": "EmployerService.Infrastructure\\Migrations\\20260504125355_Initial-Migration.cs",
@@ -63,8 +244,7 @@
               "RelativeToolTip": "EmployerService.Infrastructure\\Migrations\\20260504125355_Initial-Migration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T12:53:55.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T12:53:55.749Z"
             },
             {
               "$type": "Document",
@@ -74,27 +254,26 @@
               "RelativeDocumentMoniker": "EmployerService.Api\\Controllers\\EmployerController.cs",
               "ToolTip": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Api\\Controllers\\EmployerController.cs",
               "RelativeToolTip": "EmployerService.Api\\Controllers\\EmployerController.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAswFQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAcwBgAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-04T12:52:49.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "EmployerConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Infrastructure\\Persistence\\Configurations\\EmployerConfiguration.cs",
               "RelativeDocumentMoniker": "EmployerService.Infrastructure\\Persistence\\Configurations\\EmployerConfiguration.cs",
               "ToolTip": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Infrastructure\\Persistence\\Configurations\\EmployerConfiguration.cs",
               "RelativeToolTip": "EmployerService.Infrastructure\\Persistence\\Configurations\\EmployerConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T12:52:20.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T12:52:20.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "EmployerDbContext.cs",
               "DocumentMoniker": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Infrastructure\\Persistence\\EmployerDbContext.cs",
               "RelativeDocumentMoniker": "EmployerService.Infrastructure\\Persistence\\EmployerDbContext.cs",
@@ -102,12 +281,11 @@
               "RelativeToolTip": "EmployerService.Infrastructure\\Persistence\\EmployerDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T12:52:16.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T12:52:16.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\lfodor\\OneDrive - ENDAVA\\Documents\\DissertationRepo\\svc-employer\\EmployerService.Api\\appsettings.json",
               "RelativeDocumentMoniker": "EmployerService.Api\\appsettings.json",
@@ -115,8 +293,7 @@
               "RelativeToolTip": "EmployerService.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-04T12:47:24.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T12:47:24.631Z"
             }
           ]
         }
